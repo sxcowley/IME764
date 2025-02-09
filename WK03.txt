@@ -41,3 +41,6 @@
 	BIOS - Sample 4 line version (when double justified in Microsoft Word)
 
 	ADAM CARLTON LYNCH received his Master of International Management from the Thunderbird School of Management at ASU. He completed a PhD in Industrial, Systems, and Manufacturing Engineering (ISME) from WSU in Wichita, KS. Dr. Lynch has 30 years of industry experience, now serving as an Associate Teaching Professor in the Applied Engineering at WSU
+
+
+	SEAN COWLEY received his Bachelor of Science in Electrical & Computer Engineering from Wichita State University and is currently pursuing a Master’s in Electrical & Computer Engineering with an emphasis on Compute Architectures. Prior to his role as DVT Lead Engineer at NetApp, he served as a Software Engineer at the company, leveraging his Python and C software design experience. With a focus on parallel computing and high-performance computing (HPC) during his studies, Sean has led internal projects and driven new proof-of-concept efforts that are relevant to DVT initiatives. 
